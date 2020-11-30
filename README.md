@@ -8,4 +8,3 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 Add new tests to utility classes
 
 Document sprint 15
-

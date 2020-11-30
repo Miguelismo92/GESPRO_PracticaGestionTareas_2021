@@ -10,8 +10,8 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 Add new tests to utility classes
 
-Fix apiary name overlap #183
+Fix apiary name overlap
 
 Convert to latex points 1 and 2 
 
-Add splash activity 
+Convert to latex point 3

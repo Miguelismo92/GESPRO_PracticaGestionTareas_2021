@@ -33,3 +33,5 @@ Improve references
 Document Especificacion de Requisitos
 
 Document Viabilidad Economica 
+
+Fix exception with vectors in API < 21

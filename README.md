@@ -28,4 +28,4 @@ Minor fixes
 
 Minor fix SonarQube 
 
-Integrate SonarQube
+Improve references

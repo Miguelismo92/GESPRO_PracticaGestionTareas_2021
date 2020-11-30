@@ -31,3 +31,5 @@ Minor fix SonarQube
 Improve references
 
 Document Especificacion de Requisitos
+
+Document Viabilidad Economica 

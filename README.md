@@ -12,4 +12,4 @@ Add new tests to utility classes
 
 Fix apiary name overlap #183
 
-Document sprint 15
+Convert to latex points 1 and 2 

@@ -29,3 +29,5 @@ Minor fixes
 Minor fix SonarQube 
 
 Improve references
+
+Document Especificacion de Requisitos

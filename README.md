@@ -23,3 +23,5 @@ Convert to latex point 5
 Convert to latex point 6
 
 Finish SonarQube integration
+
+Minor fixes 

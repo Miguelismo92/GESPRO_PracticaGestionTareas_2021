@@ -10,8 +10,5 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 Add new tests to utility classes
 
-Document sprint 15
-@davidmigloz
-Convert to latex points 1 and 2 #124
 
-Convert to latex point 3 #124
+Fix apiary name overlap

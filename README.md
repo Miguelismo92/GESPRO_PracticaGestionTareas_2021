@@ -27,3 +27,5 @@ Finish SonarQube integration
 Minor fixes 
 
 Minor fix SonarQube 
+
+Integrate SonarQube

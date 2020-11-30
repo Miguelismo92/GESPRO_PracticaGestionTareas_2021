@@ -13,3 +13,5 @@ Add new tests to utility classes
 Fix apiary name overlap #183
 
 Convert to latex points 1 and 2 
+
+Add splash activity 

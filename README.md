@@ -7,6 +7,7 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 * [Guillermo Fernandez Golpe](https://github.com/Guillefer10)
 * [Alejandro Fernandez Berrio](https://github.com/afb1002)
+* [Miguel Angulo Fernandez](https://github.com/maf1005)
 
 Add new tests to utility classes
 
